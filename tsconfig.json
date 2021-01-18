@@ -9,6 +9,7 @@
     "sourceMap": false,
     "baseUrl": "./",
     "strict": true,
+    "allowSyntheticDefaultImports": true,
     "paths": {
       "@pages/*": ["src/pages/*"],
       "@components/*": ["src/components/*"],
