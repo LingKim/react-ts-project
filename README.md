@@ -23,6 +23,6 @@ react+ts+webpack搭建项目
 #### // Vue
 #### yarn add eslint babel-eslint vue-eslint-parser eslint-plugin-vue eslint-config-alloy -D
 #### // TypeScript
-####yarn add eslint typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-alloy -D
+#### yarn add eslint typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-alloy -D
 #### // TypeScript React
 #### yarn add eslint typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react eslint-config-alloy -D
