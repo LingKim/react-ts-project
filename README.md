@@ -14,15 +14,15 @@ react+ts+webpack搭建项目
 ### https://github.com/conventional-changelog/commitlint
 
 ## 配置eslint
-### 1.安装 
+### 根据不同需求安装不同的插件
 
-// Eslint
-yarn add eslint babel-eslint eslint-config-alloy -D
-// React
-yarn add eslint babel-eslint eslint-plugin-react eslint-config-alloy -D
-// Vue
-yarn add eslint babel-eslint vue-eslint-parser eslint-plugin-vue eslint-config-alloy -D
-// TypeScript
-yarn add eslint typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-alloy -D
-// TypeScript React
-yarn add eslint typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react eslint-config-alloy -D
+#### // Eslint
+#### yarn add eslint babel-eslint eslint-config-alloy -D
+#### // React
+#### yarn add eslint babel-eslint eslint-plugin-react eslint-config-alloy -D
+#### // Vue
+#### yarn add eslint babel-eslint vue-eslint-parser eslint-plugin-vue eslint-config-alloy -D
+#### // TypeScript
+####yarn add eslint typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-config-alloy -D
+#### // TypeScript React
+#### yarn add eslint typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-react eslint-config-alloy -D
