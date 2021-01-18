@@ -7,13 +7,13 @@
     "module": "commonjs",
     "target": "es6",
     "sourceMap": false,
-    "baseUrl": "./",
+    "baseUrl": "./src",
     "strict": true,
     "allowSyntheticDefaultImports": true,
     "paths": {
-      "@pages/*": ["src/pages/*"],
-      "@components/*": ["src/components/*"],
-      "@images/*": ["src/assets/images/*"]
+      "@pages/*": ["pages/*"],
+      "@components/*": ["components/*"],
+      "@images/*": ["assets/images/*"]
     }
   },
   "include": [
